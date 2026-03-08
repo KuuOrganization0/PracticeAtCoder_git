@@ -3,5 +3,5 @@
 void main() 
 {
 	printf("test");
-	printf("test");
+	printf("test add test2");
 }
